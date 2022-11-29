@@ -1,6 +1,6 @@
 <?php
 
-$arr = [1, 2, 3, 4, 5];
+$arr = [1, 2, 3, 4, 5, 6];
 
 function my_array_map(?callable $callback, array $array, array ...$arrays): array
 {
