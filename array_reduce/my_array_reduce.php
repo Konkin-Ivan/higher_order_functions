@@ -24,5 +24,3 @@ function multiply($n, $m)
 
 print_r(my_array_reduce($arr, 'sum'));
 print_r("\n");
-print_r(my_array_reduce($arr, 'multiply', 10));
-print_r("\n");
